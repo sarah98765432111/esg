@@ -1,0 +1,7 @@
+/* styles.css */
+
+/* Custom styles for county boundaries */
+.geojson-boundary {
+  stroke: black; /* Change the color here */
+  stroke-width: 5px; /* Change the thickness here */
+}
